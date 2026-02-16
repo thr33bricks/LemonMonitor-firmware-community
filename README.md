@@ -87,7 +87,3 @@ The complete Lemon Monitor ecosystem includes a Windows desktop application and 
 * **Official Website:** [lemon.yourdan.uk](http://lemon.yourdan.uk)
 * **Windows Application:** [LemonMonitor App](https://github.com/thr33bricks/LemonMonitor)
 * **Hardware Monitor Web Server:** [LemonServer](https://github.com/thr33bricks/LemonServer/)
-
-## 👤 Author
-
-**Yordan Yordanov, 2026**

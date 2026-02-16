@@ -42,12 +42,11 @@ The firmware is originally designed for a custom PCB featuring:
 * **Displays:** 2x SSD1306 0.96" OLEDs connected via I2C.
 * **Communication:** CH340K USB-Serial chip for PC communication.
 
+![Architecture](pics/architecture.jpg)
+
 | **Lemon monitor S1** | **Board** |
 | :---: | :---: |
 | ![Lemon monitor S1](pics/Lemon_monitor_S1.png) | ![Board](pics/Lemon_monitor_board.png) |
-
-### Architecture
-![Architecture](pics/architecture.jpg)
 
 ## 📦 Library Modifications
 

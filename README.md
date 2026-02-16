@@ -12,6 +12,9 @@ Here is a preview of the UI in action:
 | :---: | :---: | :---: |
 | ![Loading Screen](pics/Loading_screen.png) | ![FPS and CPU](pics/FPS_CPU.png) | ![FPS and RAM](pics/FPS_RAM.png) |
 
+### UI Demo
+![UI Demo](pics/scrolling.gif)
+
 ## 🚀 Features
 
 * **Real-time Monitoring:** Displays CPU and GPU temperature/load, RAM and VRAM usage, and FPS in real-time.

@@ -15,6 +15,9 @@ Here is a preview of the UI in action:
 ### UI Demo
 ![UI Demo](pics/scrolling.gif)
 
+### Magnetic Monitor Stand
+![Magnetic Monitor Stand](pics/monitor_stand_comp.jpg)
+
 ## 🚀 Features
 
 * **Real-time Monitoring:** Displays CPU and GPU temperature/load, RAM and VRAM usage, and FPS in real-time.
@@ -39,9 +42,9 @@ The firmware is originally designed for a custom PCB featuring:
 * **Displays:** 2x SSD1306 0.96" OLEDs connected via I2C.
 * **Communication:** CH340K USB-Serial chip for PC communication.
 
-| **Lemon monitor S1** | **Monitor stand** | **Board** |
+| **Lemon monitor S1** | **Architecture** | **Board** |
 | :---: | :---: | :---: |
-| ![Loading Screen](pics/Lemon_monitor_S1.png) | ![FPS and CPU](pics/Lemon_monitor_stand.png) | ![FPS and RAM](pics/Lemon_monitor_board.png) |
+| ![Lemon monitor S1](pics/Lemon_monitor_S1.png) | ![Architecture](pics/architecture.jpg) | ![Board](pics/Lemon_monitor_board.png) |
 
 ## 📦 Library Modifications
 
@@ -79,7 +82,7 @@ This project is built using **PlatformIO**. Follow these steps to compile and up
 
 The complete Lemon Monitor ecosystem includes a Windows desktop application and a local server:
 
-* **🌐 Official Website:** [lemon.yourdan.uk](http://lemon.yourdan.uk)
+* **Official Website:** [lemon.yourdan.uk](http://lemon.yourdan.uk)
 * **Windows Application:** [LemonMonitor App](https://github.com/thr33bricks/LemonMonitor)
 * **Hardware Monitor Web Server:** [LemonServer](https://github.com/thr33bricks/LemonServer/)
 
